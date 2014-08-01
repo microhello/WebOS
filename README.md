@@ -5,6 +5,6 @@ Web OS Desktop Layout using JavaScript, simulate <a href="http://web2.qq.com/web
 
 #demo:
 
-[login.html](http://microhello.github.io/WebOS/html/login.html)
+[login.html](http://fivesmallq.github.io/WebOS/html/login.html)
 
-[index.html](http://microhello.github.io/WebOS/html/index.html)
+[index.html](http://fivesmallq.github.io/WebOS/html/index.html)
